@@ -1,0 +1,7 @@
+{
+  "loginForm": {
+    "label": "Branch-namn",
+    "newButton": "Skapa ny branch: {{name}}"
+  },
+  "tagline": "Enkel översättningstjänst för mindre projekt"
+}
