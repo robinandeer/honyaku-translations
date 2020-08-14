@@ -1,4 +1,5 @@
 {
   "logoutButton": "Log out",
-  "saveButton": "Save"
+  "saveButton": "Save",
+  "welcomeLabel": "Welcome, {{name}}"
 }
