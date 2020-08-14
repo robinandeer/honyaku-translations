@@ -2,6 +2,6 @@
   "tagline": "Simple translation management for small projects",
   "loginForm": {
     "label": "Branch name",
-    "newButton": "New user: {{name}}"
+    "newButton": "New username: {{name}}"
   }
 }
